@@ -4,7 +4,8 @@
 }
 .personas {
     display: flex;
-    padding-top: 3rem;
     justify-content: space-around;
+    padding-top: 3rem;
     
+
 }
